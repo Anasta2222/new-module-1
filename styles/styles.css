@@ -1,0 +1,66 @@
+body{
+font-family: 'Manrope', sans-serif;
+background: #F5F5F5;
+}
+
+.container{
+width: 1400px;
+margin: 0 auto;
+padding-left: 125px;
+padding: 125px;
+
+}
+
+.interior{  
+padding-top: 379px;
+padding-left: 40px;
+margin-top: 30px;
+height: 100px;
+width: 1150px; 
+background-repeat: no-repeat;
+background-image: url('../resurses/interior.png')
+    
+}
+h1{
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+text-align: left;
+letter-spacing: -0.03em;
+color: #121212;
+}
+.image-text {
+font-size: 20px;
+line-height: 27px;
+letter-spacing: -0.03em;
+color: #FFFFFF;
+width: 419px;
+}
+h2{
+
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: -0.03em;
+margin-top: 150px;
+
+}
+
+p.paragraf{
+margin-top: 30px;
+font-weight: 400;
+font-size: 45px;
+width: 1048px;
+line-height: 61px;
+letter-spacing: -0.03em;
+text-align: left;
+}
+a{
+display: inline-block;
+background: #AD1818;
+border-radius: 5px;
+padding: 20px 40px;
+color: #FFFFFF;
+margin-top: 30px;
+text-decoration: none;
+}
